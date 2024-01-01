@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Arrive</string>
+    <string name="screen_home_title">Home</string>
+    <string name="screen_station_list_title">Station List</string>
+    <string name="screen_add_station_title">Add Station</string>
+    <string name="screen_edit_station_title">Edit Station</string>
+    <string name="screen_info_title">Information</string>
+    <string name="screen_select_prefecture">都道府県</string>
+    <string name="screen_select_line">路線名</string>
+    <string name="screen_select_station">駅名</string>
+    <string name="station_list_empty">＊＊ 情報なし ＊＊</string>
+    <string name="trace_valid">通知</string>
+    <string name="confirm_remove_station">この情報を削除しますか？</string>
+    <string name="cancel">キャンセル</string>
+    <string name="OK">OK</string>
+    <string name="message_distance">距離: %.2f km</string>
+    <string name="message_valid">有効</string>
+    <string name="message_delete">削除</string>
+    <string name="message_closer_to_station">\"%s\"駅に近づきました</string>
+    <string name="dropdown_prompt">＊＊ 選択してください ＊＊</string>
+    <string name="notification_title">\"Arrive\" 位置情報サービス</string>
+    <string name="service_channel_text">ロケーションを追跡中です ...</string>
+    <string name="notify_channel_text">%1$s 駅に近付きました ...</string>
+    <string name="arrive_service">Arriveサービス</string>
+    <string name="arrival_notification">到着通知</string>
+    <string name="xxx">XXX</string>
+</resources>
